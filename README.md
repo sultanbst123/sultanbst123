@@ -1,6 +1,6 @@
 ### Hi there! 👋🤓
 <b>I'm <i>Sultan Syach<br>
-a Machine Learning Enthusiast, Developer & Designer
+<p>a Machine Learning Enthusiast, Developer & Designer</p>
 
 ### <b><i>💻 Technologies I Love <br>
 
