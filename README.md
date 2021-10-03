@@ -2,7 +2,7 @@
 <b>I'm Sultan Syach<br>
 a Machine Learning Enthusiast, Developer & Designer
 
-<b><i>💻 Technologies I Love <br>
+### <b><i>💻 Technologies I Love <br>
 
 <!--
 **sultanbst123/sultanbst123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
