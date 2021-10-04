@@ -44,3 +44,5 @@ I am really passionate about machine learning, it is in my opinion the best comb
 </details>
 <hr>
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+<hr>
+If you like this readme file, please give me star! ❤️
