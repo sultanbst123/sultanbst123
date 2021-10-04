@@ -11,12 +11,15 @@ learn, survive and thrive. Let's code for good.<br><br>
 
 <h3> contact me if you have same interesting or some questions! </h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/sultanbst123?style=social)](https://www.github.com/sultanbst123)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sultan-syach-a894a5215)](https://www.linkedin.com/in/sultan-syach-a894a5215)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sultan.ynl)](https://www.facebook.com/sultan.ynl) 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@Sultannn7)](https://telegram.org/@Sultannn7)
-[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=Discord&logoColor=black&link=https://telegram.org/@Sultannn7)](https://telegram.org/@Sultannn7)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:sultansyach7@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/sultan-syach-a894a5215" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <a href="https://www.kaggle.com/sultan7" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white"/></a>  
+  <a href="mailto:sultansyach7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
+  <a href="https://www.facebook.com/sultan.ynl" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>  
+  <a href="https://www.instagram.com/my_arist" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>  
+  <a href="https://wa.me/" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>   
+</p>
+
 ### <b><i>💻 Technologies I Love <br>
 
 
