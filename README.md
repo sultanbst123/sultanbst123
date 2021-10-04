@@ -16,7 +16,7 @@ learn, survive and thrive. Let's code for good.<br><br>
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sultan.ynl)](https://www.facebook.com/sultan.ynl) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@Sultannn7)](https://telegram.org/@Sultannn7)
 [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=Discord&logoColor=black&link=https://telegram.org/@Sultannn7)](https://telegram.org/@Sultannn7)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:sultansyach7@gmail.com)
 ### <b><i>💻 Technologies I Love <br>
 
 
