@@ -2,7 +2,11 @@
 <hr>
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
-<b>I'm Sultan Syach a Machine Learning Enthusiast, Developer & Designer 😁.<br>
+<b>I'm Sultan Syach a Machine Learning Enthusiast, Developer & Designer 😁.
+i always like to learn new things from others as much as helping others solve their problems. 
+You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. 
+A world where everything is free and everyone is free to experiment, 
+learn, survive and thrive. Let's code for good.<br>
 contact me if you have same interesting or some questions!
 
 ### <b><i>💻 Technologies I Love <br>
