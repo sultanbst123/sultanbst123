@@ -21,7 +21,7 @@
 </summary>
 
 I am really passionate about machine learning, it is in my opinion the best combination of logical programming and
-(sometimes) develop beautiful design.⚡ I am involved in a lot of competition, hackathons, course, workshops and helped in building many communities from scratch.
+(sometimes) develop a beautiful design.⚡ I am involved in a lot of competition, hackathons, course, workshops and helped in building many communities from scratch.
 
 ## My skills
 
