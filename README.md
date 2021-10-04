@@ -16,7 +16,7 @@ learn, survive and thrive. Let's code for good.<br><br>
   <a href="https://www.kaggle.com/sultan7" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white"/></a>  
   <a href="mailto:sultansyach7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
   <a href="https://www.facebook.com/sultan.ynl" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>  
-  <a href="https://wa.me/+62 897-9619-605" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+  <a href="https://wa.me/628979619605" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
 </p>
 
 ### <b><i>💻 Technologies I Love <br>
