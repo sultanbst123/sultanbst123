@@ -12,9 +12,9 @@ learn, survive and thrive. Let's code for good.<br><br>
 <h3> contact me if you have same interesting or some questions! </h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/sultanbst123?style=social)](https://www.github.com/sultanbst123)
-[![Linkedin Badge](https://img.shields.io/badge/-sultansyach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sultansyach/)](https://www.linkedin.com/in/sultan-syach/)
-[![Facebook Badge](https://img.shields.io/badge/-belumdisi-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/officialsriharikapu)
-[![Telegram Badge](https://img.shields.io/badge/-belumdisi-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@sriharikapu)](https://telegram.org/@sriharikapu)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sultan-syach/)](https://www.linkedin.com/in/sultan-syach/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sultan.ynl)](https://www.facebook.com/sultan.ynl) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@Sultannn7)](https://telegram.org/@Sultannn7)
 
 ### <b><i>💻 Technologies I Love <br>
 
