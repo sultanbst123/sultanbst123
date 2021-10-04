@@ -28,3 +28,4 @@ I am really passionate about machine learning, it is in my opinion the best comb
 ### Programming language
 </details>
 
+You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
