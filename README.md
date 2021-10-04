@@ -1,10 +1,10 @@
 ### Hi there! 👋🤓
-
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 <hr>
+<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+
 <b>I'm Sultan Syach a Machine Learning Enthusiast, Developer & Designer 😁.<br>
 contact me if you have same interesting or some questions!
-<hr>
+
 ### <b><i>💻 Technologies I Love <br>
 
 
