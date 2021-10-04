@@ -8,7 +8,8 @@ i always like to learn new things from others as much as helping others solve th
 You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. 
 A world where everything is free and everyone is free to experiment, 
 learn, survive and thrive. Let's code for good.<br><br>
-contact me if you have same interesting or some questions!
+
+<h3> contact me if you have same interesting or some questions! </h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/sultanbst123?style=social)](https://www.github.com/sultanbst123)
 [![Linkedin Badge](https://img.shields.io/badge/-sultansyach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sultansyach/)](https://www.linkedin.com/in/sultan-syach/)
