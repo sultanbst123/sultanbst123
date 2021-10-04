@@ -1,5 +1,5 @@
 ### Hi there! 👋🤓
-<b>I'm Sultan Syach a Machine Learning Enthusiast, Developer & Designer
+<b>I'm Sultan Syach a Machine Learning Enthusiast, Developer & Designer 😁
 
 ### <b><i>💻 Technologies I Love <br>
 
