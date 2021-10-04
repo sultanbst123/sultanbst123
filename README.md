@@ -20,16 +20,12 @@ learn, survive and thrive. Let's code for good.<br><br>
   <a href="https://discord.gg/user/TAN#1846" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> 
 </p>
 
-### <b><i>💻 Technologies I Love <br>
-
-
-
 ## Quick overview
 * GitHub stats:  
 <a href="https://github.com/sultanbst123/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a><br>
-
+</a>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sultanbst123&layout=compact)](https://github.com/sultanbst123/github-readme-stats)
 
 
@@ -43,6 +39,8 @@ I am really passionate about machine learning, it is in my opinion the best comb
 (sometimes) develop a beautiful design.⚡ I am involved in a lot of competition, hackathons, course, workshops and helped in building many communities from scratch.
 
 ## My skills
+
+### <b><i>💻 Technologies I Love <br>
 
 ### Programming language
 </details>
