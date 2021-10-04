@@ -1,7 +1,7 @@
 ### Hi there! 👋🤓
-
+<div>
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
-
+</div>
 
 ### 🙍‍♂
 <b>I'm Sultan Syach a Machine Learning Enthusiast, Developer & Designer 😁.<br>
