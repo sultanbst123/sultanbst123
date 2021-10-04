@@ -2,7 +2,7 @@
  <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif'>
 </p>
 
-<h2> Hi there! 👋🤓 </h2>
+<h2> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 🤓 </h2>
 <b>I'm Sultan Syach a Machine Learning Enthusiast, Developer & Designer 😁.
 i always like to learn new things from others as much as helping others solve their problems. 
 You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. 
