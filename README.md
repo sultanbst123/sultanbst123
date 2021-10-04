@@ -8,7 +8,7 @@
 ## Quick overview
 * GitHub stats:  
 <a href="https://github.com/sultanbst123/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.sultanbst123.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
 <!--
