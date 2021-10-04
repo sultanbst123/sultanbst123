@@ -3,6 +3,14 @@
 
 ### <b><i>💻 Technologies I Love <br>
 
+
+
+## Quick overview
+* GitHub stats:  
+<a href="https://github.com/sultanbst123/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.sultanbst123.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
 <!--
 **sultanbst123/sultanbst123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
