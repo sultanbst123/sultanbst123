@@ -1,5 +1,5 @@
 <p align="center"
-  <img width = "800" height = "400"
+ <img width = "800" height = "400"
 src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif'>
 </p>
 
