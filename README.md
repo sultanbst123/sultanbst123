@@ -77,9 +77,6 @@ I am really passionate about machine learning, it is in my opinion the best comb
   <li>Feature Engineering</li>
   <li>Googling</li>
 </ul>
-<p align="center">
- <img src="https://images.app.goo.gl/SCw3gg6H2HSbvwEz6"> 
-</p>
 </details>
 
 <hr>
