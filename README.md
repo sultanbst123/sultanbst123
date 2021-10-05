@@ -41,10 +41,13 @@ I am really passionate about machine learning, it is in my opinion the best comb
 ## My skills
 <h3> Programming Language </h3>
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
-<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white">
 
 
 ### <b><i>💻 Technologies I Love <br>
