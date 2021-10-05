@@ -24,7 +24,7 @@ learn, survive and thrive. Let's code for good.<br><br>
 * GitHub stats:  
 <a href="https://github.com/sultanbst123/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats"/>
-  </br>
+  <!--kwkwk-->
   <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true"/>
 </a>
 
