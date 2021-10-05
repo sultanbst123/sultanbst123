@@ -9,7 +9,7 @@ You know what else is fun! Learning code is. Let's work for a better opensource,
 A world where everything is free and everyone is free to experiment, 
 learn, survive and thrive. Let's code for good.<br><br>
 
-<h3> contact me if you have same interesting or some questions! </h3>
+<h3> Contact me if you have same interesting or some questions! </h3>
 
 <p>
   <a href="https://www.linkedin.com/in/sultan-syach-a894a5215" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
@@ -24,7 +24,7 @@ learn, survive and thrive. Let's code for good.<br><br>
 * GitHub stats:  
 <a href="https://github.com/sultanbst123/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats"/>
-  <br>
+  </br>
   <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true"/>
 </a>
 <br>
