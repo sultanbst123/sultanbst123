@@ -65,7 +65,7 @@ I am really passionate about machine learning, it is in my opinion the best comb
 <img alt="Sublime-Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
-<h3> Other skills </3>
+<h3>📝 Other skills </3>
 <ul>
   <li>Natural Language Processing(NLP)</li>
   <li>Computer Vision</li>
