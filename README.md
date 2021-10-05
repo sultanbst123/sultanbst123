@@ -69,12 +69,13 @@ I am really passionate about machine learning, it is in my opinion the best comb
 <ul>
   <li>Natural Language Processing(NLP)</li>
   <li>Computer Vision</li>
+  <li>Neural network</li>
   <li>Data analysis</li>
   <li>Data visualization</li>
   <li>Data science</li>
   <li>Domain Knowledge</li>
   <li>Feature Engineering</li>
-  <li>Gooling</li>
+  <li>Googling</li>
 </ul>
 
 </details>
