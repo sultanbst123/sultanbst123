@@ -66,14 +66,17 @@ I am really passionate about machine learning, it is in my opinion the best comb
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 <h3> Other skills </3>
--Natural Language Processing(NLP)
--Computer Vision
--Data analysis
--Data visualization
--Data science
+<ul>
+  <li>Natural Language Processing(NLP)</li>
+  <li>Computer Vision</li>
+  <li>Data analysis</li>
+  <li>Data visualization</li>
+  <li>Data science</li>
+  <li>Domain Knowledge</li>
+  <li>Feature Engineering</li>
+  <li>Gooling</li>
+</ul>
 
-
-### Programming language
 </details>
 <hr>
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
