@@ -41,9 +41,9 @@ I am really passionate about machine learning, it is in my opinion the best comb
 ## My skills
 <h3> Programming Language </h3>
 <br>
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|
-<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|--|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
 
 ### <b><i>💻 Technologies I Love <br>
 
