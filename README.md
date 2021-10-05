@@ -27,9 +27,6 @@ learn, survive and thrive. Let's code for good.<br><br>
   </br>
   <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true"/>
 </a>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sultanbst123&theme=blue-green) 
-
 
 <details>
 <summary>
