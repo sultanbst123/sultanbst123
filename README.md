@@ -58,7 +58,7 @@ I am really passionate about machine learning, it is in my opinion the best comb
 <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-777BB4?style=for-the-badge&logo=seaborn&logoColor=white">
 <img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
 <img alt="NLTK" src="https://img.shields.io/badge/NLTK-777BB4?style=for-the-badge&logo=nltk&logoColor=white">
-<img alt="Matplotlib src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=Matplotlib&logoColor=white">
+<img alt="Matplotlib src="https://img.shields.io/badge/matplotlib-FF6F00?style=for-the-badge&logo=Matplotlib&logoColor=white">
 
 <h3>📝 IDEs & Editors/Softwares </h3>
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
