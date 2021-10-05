@@ -55,7 +55,7 @@ I am really passionate about machine learning, it is in my opinion the best comb
 <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-<img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+<img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-777BB4?style=for-the-badge&logo=seaborn&logoColor=white">
 
 <h3>📝 IDEs & Editors/Softwares </h3>
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
