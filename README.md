@@ -34,7 +34,7 @@ learn, survive and thrive. Let's code for good.<br><br>
 <summary>
   More stuff about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </summary>
-
+<br>
 I am really passionate about machine learning, it is in my opinion the best combination of logical programming and
 (sometimes) develop a beautiful design.⚡ I am involved in a lot of competition, hackathons, course, workshops and helped in building many communities from scratch.
 
