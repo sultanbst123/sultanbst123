@@ -25,10 +25,11 @@ learn, survive and thrive. Let's code for good.<br><br>
 <a href="https://github.com/sultanbst123/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats"/>
   <!--wkwkwk-->
+  <!--wkwkwk-->
   <img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true"/>
 </a>
-"border:0px;margin;0px;float:left;width:200px;" />
-"border:0px;margin:0px;clear:both;width:200px;"
+
+
 <details>
 <summary>
   More stuff about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
