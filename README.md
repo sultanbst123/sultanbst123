@@ -22,9 +22,9 @@ learn, survive and thrive. Let's code for good.<br><br>
 
 ## Quick overview
 * GitHub stats:  
-<img alt = GitHub src = "https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000/>
+<img alt = "GitHub" src = "https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000/>
 <a href="https://github.com/sultanbst123/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats"/>
 </a>
 <br>
 
