@@ -26,6 +26,7 @@ learn, survive and thrive. Let's code for good.<br><br>
 
 <!--<img src="https://komarev.com/ghpvc/?username=sultanbst123" alt="profile views" align="center" loading="lazy" /> [`Use this template`] -->
 <img src="https://komarev.com/ghpvc/?username=sultanbst123" alt="profile views" align="center" loading="lazy" /> 
+<br>
 
 <a href="https://github.com/sultanbst123/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats"/>
@@ -74,12 +75,16 @@ I am really passionate about machine learning, it is in my opinion the best comb
 <ul>
   <li>Natural Language Processing(NLP)</li>
   <li>Computer Vision</li>
-  <li>Neural network</li>
-  <li>Data analysis</li>
-  <li>Data visualization</li>
-  <li>Data science</li>
+  <li>Neural Network</li>
+  <li>Data Analysis</li>
+  <li>Data Visualization</li>
+  <li>Data Science</li>
+  <li>Machine Learning Methods</li>
+  <li>Statistics & Probability</li>
   <li>Domain Knowledge</li>
   <li>Feature Engineering</li>
+  <li>Curiosity</li>
+  <li>Critical Thinking</li>
   <li>Googling</li>
 </ul>
 </details>
