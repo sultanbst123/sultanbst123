@@ -27,7 +27,7 @@ learn, survive and thrive. Let's code for good.<br><br>
 <!--<img src="https://komarev.com/ghpvc/?username=sultanbst123" alt="profile views" align="center" loading="lazy" /> [`Use this template`] -->
 <img src="https://komarev.com/ghpvc/?username=sultanbst123" alt="profile views" align="center" loading="lazy" /> 
 <br>
-
+<!-- bla -->
 <a href="https://github.com/sultanbst123/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=sultanbst123&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats"/>
   <!--wkwkwk-->
@@ -72,7 +72,7 @@ I am really passionate about machine learning, it is in my opinion the best comb
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 <h3>📝 Other skills </3>
-<br>
+
 <ul>
   <li>Natural Language Processing(NLP)</li>
   <li>Computer Vision</li>
