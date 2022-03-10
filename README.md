@@ -72,7 +72,7 @@ I am really passionate about machine learning, it is in my opinion the best comb
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 <h3>📝 Other skills </3>
-
+<!--wkwkwk-->
 <ul>
   <li>Natural Language Processing(NLP)</li>
   <li>Computer Vision</li>
