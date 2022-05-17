@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"> 
+ <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FmGgWY8RkgYMAAAAC%2Fhello-world.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fhello-world-gif-18564330&tbnid=hj-SDZDah2gCgM&vet=1&docid=OR8777VV2jxsmM&w=498&h=280&source=sh%2Fx%2Fim"> 
 </p>
 
 <h2> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 🤓 </h2>
