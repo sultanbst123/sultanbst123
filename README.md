@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/sultanbst123/sultanbst123/blob/main/hello-world.gifenor.com%2Fview%2Fhello-world-gif"> 
+ <img src="https://github.com/sultanbst123/sultanbst123/blob/main/hello-world.gif"> 
 </p>
 
 <h2> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 🤓 </h2>
