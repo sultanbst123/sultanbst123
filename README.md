@@ -2,7 +2,9 @@
  <img src="https://github.com/sultanbst123/sultanbst123/blob/main/hello-world.gif"> 
 </p>
 
-<h2> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> 🤓 </h2>
+<h2> Hi there! 🤓 </h2>
+<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">-->
+
 <b>I'm Sultan Syach a Machine Learning Enthusiast, Developer & Designer 😁.
 i always like to learn new things from others as much as helping others solve their problems. 
 You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. 
